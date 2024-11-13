@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ed1d8f6-13f1-427b-80d3-7466d680da81" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex21/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex13/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex21/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex13/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex21/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex13/ex13.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex14/ex13.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex13/src/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex14/src/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex14/ex14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex15/ex14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex14/src/Jogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex15/src/Jogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex14/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex14/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex15/ex15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex15/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex15/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex18/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex18/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex18/ex18.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex19/ex18.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex18/src/LivroDigital.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex19/src/LivroDigital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex18/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex19/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex19/ex19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex20/ex19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex19/src/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex20/src/Bicicleta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex19/src/ex19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex20/ex201.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex21/ex201.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex20/src/Cozinha.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex21/src/Cozinha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex20/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../listaExerciciosAula03/ex20/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listaExerciciosAula03/ex6/.vscode/settings.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2lLwFCUVlg5ypbdI3mMeyV408Dy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ed1d8f6-13f1-427b-80d3-7466d680da81" name="Changes" comment="" />
+      <created>1724972558979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724972558979</updated>
+      <workItem from="1724972559978" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
